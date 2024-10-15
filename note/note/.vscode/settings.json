@@ -1,0 +1,6 @@
+{
+    "markdown.extension.print.onFileSave": true,
+    "markdown.styles": [
+        "..\\\\note.css"
+    ]
+}

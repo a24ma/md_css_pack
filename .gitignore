@@ -1,0 +1,5 @@
+
+.vscode
+!note/note/.vscode
+setup_conf*.ps1
+
