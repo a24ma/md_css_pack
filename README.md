@@ -7,6 +7,9 @@
 
 ## Introduction
 
-TODO:
 
+## Tips
 
+### CSS 指定の制限
+
+* `markdown.styles` に (Github の) URL は指定できない。
